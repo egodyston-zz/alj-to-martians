@@ -1,0 +1,2013 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jq",
+				"jquery.jqplot.styl"
+			],
+			[
+				"pl",
+				"jqplot.dateAxisRenderer.min.js"
+			],
+			[
+				"scheme",
+				"scheme.defaults.js"
+			],
+			[
+				"restaurant",
+				"restaurant_obj"
+			],
+			[
+				"jque",
+				"jquery.ddslick.min.js"
+			],
+			[
+				"remo",
+				"remove	.remove()"
+			],
+			[
+				"resta",
+				"restaurant_name"
+			],
+			[
+				"pa",
+				"parents	.parents()"
+			],
+			[
+				"white",
+				"$WHITE"
+			],
+			[
+				"a",
+				"admin/"
+			],
+			[
+				"res",
+				"restaurateur_api.js"
+			],
+			[
+				"mask",
+				"jquery.inputmask.bundle.min.js"
+			],
+			[
+				"con",
+				"contentWindow"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"so",
+				"sortIndex"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"filter",
+				"filter	.filter()"
+			],
+			[
+				"get",
+				"getTime"
+			],
+			[
+				"mod",
+				"modification_date"
+			],
+			[
+				"re",
+				"returner"
+			],
+			[
+				"depo",
+				"depositId"
+			],
+			[
+				"lan",
+				"language"
+			],
+			[
+				"depos",
+				"depositList"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"isAc",
+				"isActiveBool"
+			],
+			[
+				"remov",
+				"removeClass	.removeClass()"
+			],
+			[
+				"png",
+				"favicon-32x32.png	w:32 h:32"
+			],
+			[
+				"logo",
+				"sr_logo.png	w:85 h:36"
+			],
+			[
+				"each",
+				"each	$.each()"
+			],
+			[
+				"cur",
+				"currentDeposit"
+			],
+			[
+				"pre",
+				"prepend	.prepend()"
+			],
+			[
+				"prpe",
+				"prepend	.prepend()"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"lagn",
+				"language"
+			],
+			[
+				"gaps",
+				"gapsTitleText"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"response",
+				"responseText"
+			],
+			[
+				"sub",
+				"submit	.submit()"
+			],
+			[
+				"da",
+				"data-statuses.js"
+			],
+			[
+				"com",
+				"common/"
+			],
+			[
+				"j",
+				"jquery.inputmask.bundle.min.js"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"par",
+				"parent	.parent()"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"cr",
+				"createClass()	React"
+			],
+			[
+				"ch",
+				"children	.children()"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"parent",
+				"parent	.parent()"
+			],
+			[
+				"inpu",
+				"inputText"
+			],
+			[
+				"ke",
+				"keypress	.keypress()"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"ea",
+				"each	$.each()"
+			],
+			[
+				"JSON",
+				"JSON.stringify( value: any, replacer?: any, space?: any ): string	JSON"
+			],
+			[
+				"auto",
+				"autofocus	Attr"
+			],
+			[
+				"classL",
+				"classList: DOMTokenList	Element"
+			],
+			[
+				"togg",
+				"toggle	.toggle()"
+			],
+			[
+				"append",
+				"append	.append()"
+			],
+			[
+				"parents",
+				"parentsUntil	.parentsUntil()"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"online",
+				"online_status"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"appen",
+				"append	.append()"
+			],
+			[
+				"text-",
+				"text-decoration	styl"
+			],
+			[
+				"tri",
+				"trigger	.trigger()"
+			],
+			[
+				"ide",
+				"indexOf"
+			],
+			[
+				"s",
+				"main.styl"
+			],
+			[
+				"cha",
+				"cache.js"
+			],
+			[
+				"en",
+				"english.js"
+			],
+			[
+				"al",
+				"alertText"
+			],
+			[
+				"alert",
+				"alertPhone"
+			],
+			[
+				"we",
+				"WebContent/"
+			],
+			[
+				"co",
+				"commonpopup/"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"api",
+				"ji:negative-squared-latin-capital-letter-p	🅿"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"idn",
+				"indexOf"
+			],
+			[
+				"eleme",
+				"formElement"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"calen",
+				"calendarOption"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"eac",
+				"each	$.each()"
+			],
+			[
+				"k",
+				"keyup	.keyup()"
+			],
+			[
+				"el",
+				"formElement"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"rese",
+				"reserve"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"log",
+				"console.log()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "save",
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"anf",
+				"ANF: New File"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"set log",
+				"Set Syntax: Log Highlight"
+			],
+			[
+				"diff",
+				"Diffy Compare"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"script",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"tra",
+				"Yandex Translate selected text"
+			],
+			[
+				"jspn",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"yan",
+				"Yandex Translate selected text"
+			],
+			[
+				"typo",
+				"Typograph text/file"
+			],
+			[
+				"eidt",
+				"Project: Edit Project"
+			],
+			[
+				"next",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"transl",
+				"Yandex Translate selected text"
+			],
+			[
+				"trans",
+				"Yandex Translate selected text"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"tran",
+				"Yandex Translate selected text"
+			],
+			[
+				"typoe",
+				"Typograph text/file"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ys",
+				"Yandex Translate selected text"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"tasks",
+				"Set Syntax: Tasks"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"select",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"synt",
+				"SyntaxHighlightTools: Insert UUID"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"box",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"boxy ",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"activa",
+				"Boxy Theme: Activation"
+			],
+			[
+				"matere",
+				"Material Theme: Configuration"
+			],
+			[
+				"materal",
+				"Material Theme: Configuration"
+			],
+			[
+				"colorsc",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"selec",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"materia",
+				"Material Theme: Configuration"
+			],
+			[
+				"material ",
+				"Material Theme: Configuration"
+			],
+			[
+				"mater",
+				"Material Theme: Configuration"
+			],
+			[
+				"scheme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"ed",
+				"Project: Edit Project"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"theme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"clean",
+				"Diffy Cleanup"
+			],
+			[
+				"josn",
+				"Set Syntax: JSON"
+			],
+			[
+				"edi",
+				"Project: Edit Project"
+			],
+			[
+				"rein",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"jso",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"jsa",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"css	",
+				"Set Syntax: CSS3"
+			],
+			[
+				"brow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"di",
+				"Diffy Compare"
+			],
+			[
+				"api",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"sele",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"mat",
+				"Material Theme: Configuration"
+			],
+			[
+				"ues",
+				"Preferences: Settings - User"
+			],
+			[
+				"csslint",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"csslin",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"style",
+				"Snippet: <style>"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"log",
+				"Set Syntax: Log Highlight"
+			],
+			[
+				"materi",
+				"Material Theme: Info"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"tyop",
+				"Typograph text/file"
+			],
+			[
+				"lint",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"anima	",
+				"Snippet: CSS - animation: ;"
+			],
+			[
+				"keyfram",
+				"Snippet: CSS - @keyframes {}"
+			],
+			[
+				"comp",
+				"Diffy Compare"
+			],
+			[
+				"mate",
+				"Material Theme: Extras"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"amin",
+				"Material Theme: Info"
+			],
+			[
+				"cloas",
+				"File: Close All"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"",
+				"ANF: New File"
+			],
+			[
+				"anf	",
+				"ANF: New File"
+			],
+			[
+				"aoo",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"eac",
+				"Snippet: forEach"
+			],
+			[
+				"eslint",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"eslin",
+				"Build With: ESLint"
+			],
+			[
+				"remoe pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"borws",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"impo",
+				"Snippet: @import"
+			],
+			[
+				"brows",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"bro",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"sheet",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"hsl",
+				"HSL: Convert Selected RGB to HSL"
+			],
+			[
+				"rgb",
+				"CSS3: Convert RGB Color To Hex"
+			],
+			[
+				"hsl to",
+				"HSL: Convert All RGB to HSL"
+			],
+			[
+				"remo",
+				"Emmet: Remove Tag"
+			],
+			[
+				"convert hsl",
+				"HSL: Convert All RGB to HSL"
+			],
+			[
+				"hmtl",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ty",
+				"Typograph text/file"
+			],
+			[
+				"lint ",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"remoev",
+				"Emmet: Remove Tag"
+			],
+			[
+				"b",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"an",
+				"ANF: New File"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"json.",
+				"Snippet: JSON.stringify"
+			],
+			[
+				"border-bo",
+				"Snippet: CSS - box-sizing: border-box;"
+			],
+			[
+				"md",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"anon",
+				"Snippet: Anoynmous Function"
+			],
+			[
+				"fun",
+				"Snippet: anonymous function"
+			],
+			[
+				"func",
+				"Snippet: Function"
+			],
+			[
+				"time",
+				"Snippet: setTimeout"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 499.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/e.balashov/Git/alj"
+	],
+	"file_history":
+	[
+		"/Users/e.balashov/Desktop/work.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/binds.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/api.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/restaurateur_api.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/pos.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/reserve_admin.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/css/style.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/SmartReserveWebFrontEnd.sublime-project",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/index.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/webpack.config.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/mapeditor/js/api.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/css/rest.style.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/package.json",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/externalPopup/smartreserve_popup.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/common/popup_example.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/externalPopup/smartreserve_popup.css",
+		"/Users/e.balashov/Dropbox/work/sr.md",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/readme.md",
+		"/Users/e.balashov/Dropbox/Public/Site/index.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/base/base.styl",
+		"/Users/e.balashov/.hyper.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/js/app.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/js/locale/russian.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/css/deposit.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/css/form.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/index.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/blocks/visuals/icons.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/css/main.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/common.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/css/mobile.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/css/caterer.styl",
+		"/Users/e.balashov/Desktop/err.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/schemas.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/form.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/common/shedule.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/abstract/colors.styl",
+		"/Users/e.balashov/Downloads/Surrealism_on_JavaScript.json/Surrealism_on_JavaScript.json",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/common/contacts_import.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/common/restaurateur.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/.eslintrc",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/users.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/deposits.js",
+		"/Users/e.balashov/Dropbox/share/work.md",
+		"/Applications/The Elder Scrolls V Skyrim(Запуск).app/Contents/Resources/transgaming/c_drive/Program Files/The Elder Scrolls V Skyrim/Skyrim/SkyrimPrefs.ini",
+		"/Applications/The Elder Scrolls V Skyrim(Запуск).app/Contents/Resources/transgaming/c_drive/Program Files/The Elder Scrolls V Skyrim/%USERPROFILE%/My Documents/My Games/Skyrim/SkyrimPrefs.ini",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/mapeditor/js/canvas_edits.js",
+		"/Users/e.balashov/Desktop/pos_bug.txt",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/themes/no-rounding.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/common/popup_example.txt",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/themes/italy-group.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/themes/index.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/home/js/main.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/themes/restaurant-hitch.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/vendor/selectric.styl",
+		"/Users/e.balashov/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/index.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/yarn.lock",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/home/css/old-home.styl",
+		"/Users/e.balashov/Desktop/done.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/changelog.md",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/.eslintignore",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/.gitlab-ci.yml",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/home/js/tabs.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/jquery.form.min.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/plugins/jqplot.dateAxisRenderer.min.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/jquery.jqplot.min.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/plugins/jqplot.pieRenderer.min.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/mapeditor/js/canvas-to-blob.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/mapeditor/index.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/mapeditor/js/scheme.defaults.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/mapeditor/js/scheme.object.stuff.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/mapeditor/js/scheme.object.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/mapeditor/js/tables.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/jquery.ddslick.min.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/intervals.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/shedule.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/long_file.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/develop/index.html",
+		"/Users/e.balashov/Git/js-education/js!.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/tabs.js",
+		"/Users/e.balashov/Git/todomvc/examples/angular-dart/web/main.dart.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/home/css/abstract/colors.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/old-desktop.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/old-mobile.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/old-commonpopup.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/vendor/pickmeup.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/home/index.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/home/js/trash-min.js",
+		"/Users/e.balashov/Desktop/legacy-styles.txt",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/common/userApplication.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/common/offer.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/states.styl",
+		"/Users/e.balashov/Downloads/sr-preloader/index.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/css/pickmeup.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/js/locale/english.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/js/additional_info.json",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/abstract/variables.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/blocks/visuals/preloader.styl",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/fonts/droid-sans-mono-v7-latin-regular.svg",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/css/main.css",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/develop/commonpopup/js/app.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/develop/mapeditor/js/api.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/develop/admin/js/api.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/develop/admin/js/reserve_admin.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/develop/popup/js/api.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/develop/home/js/tabs.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/develop/common/js/api_popup.js",
+		"/Users/e.balashov/Desktop/ext-rests.txt",
+		"/Users/e.balashov/Desktop/kills.js",
+		"/Users/e.balashov/Desktop/nice.js",
+		"/private/var/folders/5r/d98q0kd97vgfhmp1zfmsr6p80000gp/T/WebContent_admin_js_restaurateur_api_Before_b28987c571be5444ab0fbc00fbf4914adbdc7ff1.js",
+		"/Users/e.balashov/Downloads/nodejs-screencast-master/README.md",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/.gitignore",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/blank.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/.babelrc",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/home/css/themes/index.styl",
+		"/Users/e.balashov/Downloads/url-2.html",
+		"/Users/e.balashov/Downloads/url.html",
+		"/Users/e.balashov/Downloads/Turn-Off-Syntax-Highlighting.tmTheme",
+		"/Users/e.balashov/Library/Application Support/Sublime Text 3/Packages/User/yaTranslate.sublime-settings",
+		"/Users/e.balashov/Library/Application Support/Sublime Text 3/Packages/YandexTranslate/yaTranslate.sublime-settings",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/commonpopup/js/vendor/jquery.inputmask.bundle.min.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/js/jquery.combo.select.js",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/common/users.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/admin/common/form.html",
+		"/Users/e.balashov/Git/SmartReserveWebFrontEnd/WebContent/popup/js/mask.min.js",
+		"/Users/e.balashov/Git/callcenter-server/src/main/resources/static/js/popup/mask.min.js",
+		"/Users/e.balashov/Desktop/2do.js"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"WebContent/admin/",
+			"WebContent/admin/*.js",
+			"WebContent/",
+			"WebContent/admin/",
+			"WebContent/",
+			"WebContent/admin",
+			"WebContent/admin/*.js",
+			"WebContent/admin",
+			"",
+			"WebContent/",
+			"WebContent/mapeditor/",
+			"WebContent/admin/",
+			"WebContent/admin/*.js",
+			"WebContent/admin/",
+			"",
+			"WebContent/",
+			"WebContent/admin/",
+			"WebContent/",
+			"WebContent/admin/*.js",
+			"WebContent/*.js",
+			"WebContent/",
+			"WebContent/commonpopup/*.js",
+			"WebContent/admin/*.js",
+			"WebContent/admin",
+			"WebContent/mapeditor",
+			"WebContent/admin",
+			"WebContent/mapeditor/",
+			"WebContent/mapeditor/*.js",
+			"WebContent/mapeditor/&.js",
+			"WebContent/mapeditor/",
+			"WebContent/admin",
+			"WebContent/mapeditor",
+			"WebContent/admin/",
+			"WebContent/",
+			"WebContent/admin/",
+			"WebContent/",
+			"WebContent/home",
+			"WebContent/",
+			"WebContent/home",
+			"WebContent/admin/",
+			"WebContent/mapeditor/",
+			"WebContent/mapeditor",
+			"WebContent/admin/",
+			"WebContent/admin/*.js",
+			"WebContent/admin/",
+			"WebContent/admin",
+			"WebContent/mapeditor",
+			"WebContent/admin/*.js",
+			"WebContent/admin/",
+			"WebContent/admin/*.js",
+			"WebContent/admin/",
+			"WebContent/admin/*.styl",
+			"WebContent/admin/",
+			"WebContent/admin/*.js",
+			"WebContent/admin/",
+			"WebContent/admin/*.js",
+			"WebContent/admin/",
+			"WebContent/admin/*.js",
+			"WebContent/admin/",
+			"WebContent/",
+			"WebContent",
+			"WebContent/commonpopup",
+			"WebContent/",
+			"WebContent/home/",
+			"WebContent/",
+			"WebContent/home/",
+			"WebContent/",
+			"WebContent/commonpopup/",
+			"WebContent/commonpopup/*.styl",
+			"WebContent/admin/*.js",
+			"WebContent/admin",
+			"WebContent/commonpopup/*.styl",
+			"WebContent/commonpopup/",
+			"WebContent/commonpopup/*.styl",
+			"WebContent/commonpopup/",
+			"WebContent/commonpopup/*.styl",
+			"WebContent/commonpopup",
+			"WebContent/admin",
+			"WebContent/commonpopup/*.styl",
+			"WebContent/commonpopup/",
+			"",
+			"WebContent/",
+			"WebContent/admin/*.js",
+			"WebContent/commonpopup/*.js",
+			"WebContent/admin/*.js",
+			"WebContent/*.js",
+			"WebContent/admin/*.js",
+			"WebContent/admin",
+			"WebContent/",
+			"WebContent/admin/",
+			"WebContent/admin/*.js",
+			"WebContent/admin",
+			"WebContent/",
+			"WebContent/admin/",
+			"WebContent/admin/*.js",
+			"WebContent/",
+			"WebContent/admin",
+			"WebContent/",
+			"WebContent/a",
+			"WebContent/admin/",
+			"WebContent/admin/*js",
+			"WebContent/",
+			"WebContent/admin/",
+			"WebContent/admin/*.js",
+			"WebContent/admin/",
+			"WebContent/",
+			"WebContent/admin/*.js",
+			"WebContent/admin/",
+			"WebContent/admin/*.js",
+			"WebContent/",
+			"WebContent/*.js",
+			"WebContent/",
+			"WebContent/afishapopup/*.js",
+			"WebContent/common/*.js",
+			"WebContent/*.js",
+			"WebContent/*.html",
+			"WebContent/mapeditor/*.js",
+			"WebContent/admin/*.js",
+			"WebContent/admin",
+			"WebContent/mapeditor",
+			"WebContent/admin",
+			"WebContent/mapeditor",
+			"WebContent/admin",
+			"WebContent/",
+			"WebContent/*.js",
+			"WebContent/",
+			"WebContent/*.js",
+			"WebContent/;юоы"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"one",
+			"console",
+			"printReservationStatistic",
+			"one_rest_statistic",
+			"one-",
+			"request-card-line",
+			"filterRequests",
+			"#only-active-rest",
+			"createCache",
+			"dash_panel",
+			".dash_panel",
+			"break;",
+			"filterVal",
+			"#only-active-rest",
+			"console",
+			"test",
+			"status",
+			"var",
+			"console",
+			"getReservationStatistic",
+			"getAllRestaurants",
+			"getReservationStatistic",
+			"printReservationStatistic",
+			"console",
+			"printReservationStatistic",
+			"getReservationStatistic",
+			"reserveAdminEvents",
+			"getAllRestaurants",
+			"Api.allRestaurants",
+			"allRestaurants",
+			"getAllRestaurants",
+			"allRestaurants",
+			"getAllRestaurants",
+			"allRestaurants",
+			"one_rest_statistic",
+			"$dashboardFilter",
+			"#rest-filter-by-status",
+			"one_rest_statistic",
+			"allRestaurants",
+			"getCallersAdmin",
+			"/guest",
+			"guest/",
+			"getCallersList",
+			"guest/",
+			"guest",
+			"guests",
+			"/guests",
+			"guests/",
+			"guests",
+			"console",
+			"getReservationStatistic",
+			"printReservationStatistic",
+			"Api",
+			"one_rest_statistic",
+			"checkedItem",
+			"$integratedFilter",
+			"filterRequests",
+			"export_rests_list",
+			"#only-active-rest",
+			"no_reserves",
+			"restaurant_stat",
+			".restaurant_stat",
+			".no_reserves",
+			"юno_reserves",
+			"on_reserves",
+			"float: right; height: 30px;",
+			"rest->name",
+			"console",
+			"cardId",
+			"add",
+			"modifyCard",
+			".save",
+			"setToRestaurant",
+			"saveRestaurant",
+			"\"./[name]/static/main.\" + VERSION +",
+			"\"./[name]/static/main",
+			"/[name]/s",
+			"[name]",
+			"/[name]",
+			"main",
+			"'",
+			"API_PATH",
+			"SRtest",
+			"2.1.0",
+			"2.10",
+			"2.1.0",
+			"hour",
+			"hours",
+			"hour",
+			"critical",
+			"+",
+			"hours",
+			"hour",
+			"hours",
+			"day",
+			"days",
+			"minutes",
+			"min",
+			"Critical",
+			"Major",
+			"Bug",
+			"Critical",
+			"cr",
+			"Major",
+			"Bug",
+			"SMARTRSV-",
+			"\"",
+			"define",
+			"dfine",
+			"VERSION: JSON.stringify(require(\"package.json\").version)",
+			"setToRequest",
+			"debugger",
+			"setToRequest",
+			"integration/request/",
+			"/api/integration/request/",
+			"#OK",
+			"_printCards",
+			"printCards",
+			"_printCards",
+			"apiObjects",
+			"smart-reserve-content",
+			"smart-reserve",
+			"content",
+			"smart-reserve-content",
+			"smart-reserve",
+			"smart-reserve-content",
+			"frame.src"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 180.0
+	},
+	"output.exec":
+	{
+		"height": 158.0
+	},
+	"output.find_results":
+	{
+		"height": 362.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "alj.sublime-project",
+	"replace":
+	{
+		"height": 134.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"binds",
+				"WebContent/admin/js/binds.js"
+			],
+			[
+				"mapedit",
+				"WebContent/mapeditor/js/api.js"
+			],
+			[
+				"api",
+				"WebContent/admin/js/api.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"webpac",
+				"webpack.config.js"
+			],
+			[
+				"pop",
+				"WebContent/commonpopup/externalPopup/smartreserve_popup.js"
+			],
+			[
+				"opup",
+				"WebContent/admin/common/popup_example.html"
+			],
+			[
+				"rea",
+				"readme.md"
+			],
+			[
+				"we",
+				"webpack.config.js"
+			],
+			[
+				"base",
+				"WebContent/commonpopup/css/base/base.styl"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"popup",
+				"WebContent/commonpopup/externalPopup/smartreserve_popup.js"
+			],
+			[
+				"pope",
+				"WebContent/admin/common/popup_example.html"
+			],
+			[
+				"wep",
+				"SmartReserveWebFrontEnd.sublime-project"
+			],
+			[
+				"app",
+				"WebContent/commonpopup/js/app.js"
+			],
+			[
+				"ru",
+				"WebContent/commonpopup/js/locale/russian.js"
+			],
+			[
+				"json",
+				"package.json"
+			],
+			[
+				"map",
+				"WebContent/mapeditor/js/api.js"
+			],
+			[
+				"web",
+				"webpack.config.js"
+			],
+			[
+				"mapapi",
+				"WebContent/mapeditor/js/api.js"
+			],
+			[
+				"webpa",
+				"webpack.config.js"
+			],
+			[
+				"commonpopupapp.js",
+				"WebContent/commonpopup/js/app.js"
+			],
+			[
+				"webp",
+				"webpack.config.js"
+			],
+			[
+				"commin",
+				"WebContent/commonpopup/index.html"
+			],
+			[
+				"admin",
+				"WebContent/admin/index.html"
+			],
+			[
+				"commo",
+				"WebContent/admin/js/common.js"
+			],
+			[
+				"style",
+				"WebContent/admin/css/style.styl"
+			],
+			[
+				"amdinin",
+				"WebContent/admin/index.html"
+			],
+			[
+				"mobil",
+				"WebContent/admin/css/mobile.styl"
+			],
+			[
+				"cater",
+				"WebContent/admin/css/caterer.styl"
+			],
+			[
+				"sepos",
+				"WebContent/admin/css/deposit.styl"
+			],
+			[
+				"w",
+				"webpack.config.js"
+			],
+			[
+				"restaurateur_api",
+				"WebContent/admin/js/restaurateur_api.js"
+			],
+			[
+				"binds.js",
+				"WebContent/admin/js/binds.js"
+			],
+			[
+				"reserve_admin",
+				"WebContent/admin/js/reserve_admin.js"
+			],
+			[
+				"pos",
+				"WebContent/admin/js/pos.js"
+			],
+			[
+				"res",
+				"WebContent/admin/js/restaurateur_api.js"
+			],
+			[
+				"schemas",
+				"WebContent/admin/js/schemas.js"
+			],
+			[
+				"form",
+				"WebContent/admin/js/form.js"
+			],
+			[
+				"rest",
+				"WebContent/admin/js/restaurateur_api.js"
+			],
+			[
+				"colo",
+				"WebContent/commonpopup/css/abstract/colors.styl"
+			],
+			[
+				"shem",
+				"WebContent/admin/js/schemas.js"
+			],
+			[
+				"resta",
+				"WebContent/admin/js/restaurateur_api.js"
+			],
+			[
+				"form.js",
+				"WebContent/admin/js/form.js"
+			],
+			[
+				"hem",
+				"WebContent/admin/js/schemas.js"
+			],
+			[
+				"binds.",
+				"WebContent/admin/js/binds.js"
+			],
+			[
+				"common",
+				"WebContent/admin/js/common.js"
+			],
+			[
+				"eslint",
+				".eslintrc"
+			],
+			[
+				"main",
+				"WebContent/home/js/main.js"
+			],
+			[
+				"mapap",
+				"WebContent/mapeditor/js/api.js"
+			],
+			[
+				"users",
+				"WebContent/admin/js/users.js"
+			],
+			[
+				"users.js",
+				"WebContent/admin/js/users.js"
+			],
+			[
+				"shemas",
+				"WebContent/admin/js/schemas.js"
+			],
+			[
+				"depos",
+				"WebContent/admin/js/deposits.js"
+			],
+			[
+				"reserve_admin.js",
+				"WebContent/admin/js/reserve_admin.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"webap",
+				"webpack.config.js"
+			],
+			[
+				"pp",
+				"WebContent/commonpopup/externalPopup/smartreserve_popup.css"
+			],
+			[
+				"webpack",
+				"webpack.config.js"
+			],
+			[
+				"rest.s",
+				"WebContent/admin/css/rest.style.styl"
+			],
+			[
+				"canva",
+				"WebContent/mapeditor/js/canvas-to-blob.js"
+			],
+			[
+				"index",
+				"WebContent/mapeditor/index.html"
+			],
+			[
+				"mapinde",
+				"WebContent/mapeditor/index.html"
+			],
+			[
+				"adminin",
+				"WebContent/admin/index.html"
+			],
+			[
+				"mapeditapi",
+				"WebContent/mapeditor/js/api.js"
+			],
+			[
+				"ddslick",
+				"WebContent/admin/js/jquery.ddslick.min.js"
+			],
+			[
+				"restapi",
+				"WebContent/admin/js/restaurateur_api.js"
+			],
+			[
+				"homejs",
+				"WebContent/home/js/main.js"
+			],
+			[
+				"inter",
+				"WebContent/admin/js/intervals.js"
+			],
+			[
+				"homemain",
+				"WebContent/home/js/main.js"
+			],
+			[
+				"tabs",
+				"WebContent/admin/js/tabs.js"
+			],
+			[
+				"read",
+				"readme.md"
+			],
+			[
+				"icon",
+				"WebContent/commonpopup/css/blocks/visuals/icons.styl"
+			],
+			[
+				"stlye",
+				"WebContent/admin/css/style.styl"
+			],
+			[
+				"color",
+				"WebContent/home/css/abstract/colors.styl"
+			],
+			[
+				"api.js",
+				"WebContent/admin/js/api.js"
+			],
+			[
+				"bin",
+				"WebContent/admin/js/binds.js"
+			],
+			[
+				"desk",
+				"WebContent/commonpopup/css/old-desktop.styl"
+			],
+			[
+				"homestyl",
+				"WebContent/home/css/old-home.styl"
+			],
+			[
+				"homestl",
+				"WebContent/home/css/old-home.styl"
+			],
+			[
+				"hitc",
+				"WebContent/commonpopup/css/themes/restaurant-hitch.styl"
+			],
+			[
+				"des",
+				"WebContent/commonpopup/css/old-desktop.styl"
+			],
+			[
+				"states",
+				"WebContent/commonpopup/css/states.styl"
+			],
+			[
+				"sm",
+				"WebContent/commonpopup/externalPopup/smartreserve_popup.js"
+			],
+			[
+				"pic",
+				"WebContent/commonpopup/css/vendor/pickmeup.styl"
+			],
+			[
+				"pick",
+				"WebContent/admin/css/pickmeup.styl"
+			],
+			[
+				"pickmeup",
+				"WebContent/admin/css/pickmeup.styl"
+			],
+			[
+				"stat",
+				"WebContent/commonpopup/css/states.styl"
+			],
+			[
+				"selec",
+				"WebContent/commonpopup/css/vendor/selectric.styl"
+			],
+			[
+				"colr",
+				"WebContent/commonpopup/css/abstract/colors.styl"
+			],
+			[
+				"sele",
+				"WebContent/commonpopup/css/vendor/selectric.styl"
+			],
+			[
+				"hit",
+				"WebContent/commonpopup/css/themes/restaurant-hitch.styl"
+			],
+			[
+				"old-",
+				"WebContent/commonpopup/css/old-desktop.styl"
+			],
+			[
+				"russ",
+				"WebContent/commonpopup/js/locale/russian.js"
+			],
+			[
+				"russi",
+				"WebContent/commonpopup/js/locale/russian.js"
+			],
+			[
+				"var",
+				"WebContent/commonpopup/css/abstract/variables.styl"
+			],
+			[
+				"vari",
+				"WebContent/commonpopup/css/abstract/variables.styl"
+			],
+			[
+				"va",
+				"WebContent/commonpopup/css/abstract/variables.styl"
+			],
+			[
+				"mobi",
+				"WebContent/commonpopup/css/old-mobile.styl"
+			],
+			[
+				"colors",
+				"WebContent/commonpopup/css/abstract/colors.styl"
+			],
+			[
+				"popup_",
+				"WebContent/admin/common/popup_example.txt"
+			],
+			[
+				"hitch",
+				"WebContent/commonpopup/css/themes/restaurant-hitch.styl"
+			],
+			[
+				"eng",
+				"WebContent/commonpopup/js/locale/english.js"
+			],
+			[
+				"select",
+				"WebContent/commonpopup/css/vendor/selectric.styl"
+			],
+			[
+				"hi",
+				"WebContent/commonpopup/css/themes/restaurant-hitch.styl"
+			],
+			[
+				"footer",
+				"WebContent/commonpopup/fonts/droid-sans-mono-v7-latin-regular.svg"
+			],
+			[
+				"hits",
+				"WebContent/commonpopup/css/themes/restaurant-hitch.styl"
+			],
+			[
+				"them",
+				"WebContent/commonpopup/css/themes/index.styl"
+			],
+			[
+				"sta",
+				"WebContent/commonpopup/css/states.styl"
+			],
+			[
+				"mob",
+				"WebContent/commonpopup/css/old-mobile.styl"
+			],
+			[
+				"smartreserve_popup.js",
+				"WebContent/commonpopup/externalPopup/smartreserve_popup.js"
+			],
+			[
+				"ext",
+				"WebContent/commonpopup/externalPopup/smartreserve_popup.js"
+			],
+			[
+				"sm_",
+				"WebContent/commonpopup/externalPopup/smartreserve_popup.css"
+			],
+			[
+				"old",
+				"WebContent/commonpopup/css/old-desktop.styl"
+			],
+			[
+				"poup",
+				"WebContent/admin/common/popup_example.html"
+			],
+			[
+				"adminapi",
+				"develop/admin/js/api.js"
+			],
+			[
+				"wbpack",
+				"webpack.config.js"
+			],
+			[
+				"yml",
+				"~/Git/SmartReserveWebFrontEnd/.gitlab-ci.yml"
+			],
+			[
+				"smartreserve_popup",
+				"WebContent/commonpopup/externalPopup/smartreserve_popup.js"
+			],
+			[
+				"exa",
+				"WebContent/admin/common/popup_example.html"
+			],
+			[
+				"commonpopupinde",
+				"WebContent/commonpopup/index.html"
+			],
+			[
+				"exter",
+				"WebContent/commonpopup/externalPopup/smartreserve_popup.js"
+			],
+			[
+				"cmmp",
+				"WebContent/commonpopup/css/old-commonpopup.styl"
+			],
+			[
+				"sty",
+				"WebContent/admin/css/style.styl"
+			],
+			[
+				"re",
+				"readme.md"
+			],
+			[
+				"rejs",
+				"WebContent/admin/js/restaurateur_api.js"
+			],
+			[
+				"rese",
+				"WebContent/admin/js/reserve_admin.js"
+			],
+			[
+				"html",
+				"WebContent/commonpopup/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Git/iframe-detector/iframe-detector.sublime-project"
+			],
+			[
+				"default",
+				"~/Git/default/default.sublime-project"
+			],
+			[
+				"ali",
+				"~/Git/alivedd/app/styles/alivedd.sublime-project"
+			],
+			[
+				"tee",
+				"~/Git/test/test.sublime-project"
+			],
+			[
+				"so",
+				"~/Git/sort/sort.sublime-project"
+			],
+			[
+				"de",
+				"~/Git/default/default.sublime-project"
+			],
+			[
+				"defa",
+				"~/Git/default/default.sublime-project"
+			],
+			[
+				"call",
+				"~/Git/callcenter-server/src/main/resources/callcenter.sublime-project"
+			],
+			[
+				"a",
+				"~/Git/alivedd/app/styles/alivedd.sublime-project"
+			],
+			[
+				"alo",
+				"~/Git/alivedd/app/styles/alivedd.sublime-project"
+			],
+			[
+				"al",
+				"~/Git/alivedd/app/styles/alivedd.sublime-project"
+			],
+			[
+				"sm",
+				"~/Desktop/Оптимизация скорости сайта/web-speed.sublime-project"
+			],
+			[
+				"ca",
+				"~/Git/callcenter-server/src/main/resources/callcenter.sublime-project"
+			],
+			[
+				"cal",
+				"~/Git/callcenter-server/src/main/resources/callcenter.sublime-project"
+			],
+			[
+				"s",
+				"~/Git/SmartReserveWebFrontEnd/SmartReserveWebFrontEnd.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,41 @@
+.v-home {
+  height: 100%;
+  background: #5a23ff;
+}
+.v-home__date,
+.v-home__title,
+.v-home__autor {
+  color: #fff;
+}
+.v-home__content {
+  width: 38%;
+  height: 100%;
+  left: 50%;
+  position: relative;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+.v-home__date {
+  padding-top: 7vh;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 1.4rem;
+}
+.v-home__title {
+  padding-top: 30vh;
+  line-height: 1.45em;
+  font-size: 2.1rem;
+}
+.v-home__desc {
+  color: #fe7d42;
+  padding-top: 2vh;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+.v-home__autor {
+  padding-top: 13rem;
+}
+.mobile:not(.wide) .v-home__content {
+  width: 90vw;
+  left: 5vw;
+}

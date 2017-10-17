@@ -1,11 +1,17 @@
-@import url("https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=cyrillic");
-html {
-  height: 100%;
-  font-size: 1.8vh;
-}
 body {
-  margin: 0;
-  height: 100%;
-  font-family: 'PT Sans Narrow', sans-serif;
-  background: #5a23ff;
+	font-family: Open Sans;
+	max-width: 800px;
+	line-height: 28px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 50px;
+	margin-bottom: 70px;
+
 }
+
+.my-image {
+  width: 100%;
+  max-width: 800px;
+}
+
+

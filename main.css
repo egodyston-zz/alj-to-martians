@@ -1,11 +1,6 @@
 body {
 	font-family: Open Sans;
-	max-width: 800px;
 	line-height: 28px;
-	margin-left: 50px;
-	margin-right: 50px;
-	margin-top: 50px;
-	margin-bottom: 70px;
 
 }
 
@@ -14,4 +9,42 @@ body {
   max-width: 800px;
 }
 
+.page {
+	max-width: 800px;
+	margin: 50px auto 70px;
+	padding: 0 30px;
+
+}
+
+h1 {
+line-height: 40px;
+}
+
+.social-button {
+	font-size: 16px; 
+	color: white;
+	text-decoration: none;
+	margin-right: 1em;
+	border-radius: 5px;
+	padding: 0 15px;
+	height: 35px;
+	line-height: 35px;
+	display: inline-block;
+}
+
+.social-button:hover,
+.social-button:focus {
+	background-color: black;
+	cursor: pointer;
+}
+
+.social-button-fb,
+.social-button-fb:active {
+	background-color: #3b5998;
+}
+
+.social-button-insta,
+.social-button-insta:active {
+	background-color: #e1306c;
+}
 

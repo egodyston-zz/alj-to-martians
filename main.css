@@ -20,31 +20,18 @@ h1 {
 line-height: 40px;
 }
 
+h2 {
+line-height: 42px;
+}
+
 .social-button {
 	font-size: 16px; 
-	color: white;
-	text-decoration: none;
-	margin-right: 1em;
-	border-radius: 5px;
-	padding: 0 15px;
-	height: 35px;
-	line-height: 35px;
-	display: inline-block;
+	margin-right: 1.2em;
 }
 
 .social-button:hover,
 .social-button:focus {
-	background-color: black;
 	cursor: pointer;
 }
 
-.social-button-fb,
-.social-button-fb:active {
-	background-color: #3b5998;
-}
-
-.social-button-insta,
-.social-button-insta:active {
-	background-color: #e1306c;
-}
 

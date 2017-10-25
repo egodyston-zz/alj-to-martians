@@ -55,7 +55,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 8394,
+				"buffer_size": 8833,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -64,7 +64,7 @@
 			"file": "main.css",
 			"settings":
 			{
-				"buffer_size": 682,
+				"buffer_size": 362,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -293,15 +293,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8394,
+						"buffer_size": 8833,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7882,
-								7882
+								0,
+								0
 							]
 						],
 						"settings":
@@ -323,20 +323,21 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 682,
+						"buffer_size": 362,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								227,
-								227
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 179.0,

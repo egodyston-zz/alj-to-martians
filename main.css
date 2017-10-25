@@ -39,4 +39,11 @@ line-height: 42px;
 	cursor: pointer;
 }
 
+p {
+	margin-top: 1.5em;
+}
+
+ul {
+	padding-left: 0em
+}
 

@@ -1,7 +1,6 @@
 body {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
 	line-height: 28px;
-
 }
 
 .my-image {
@@ -18,15 +17,18 @@ body {
 	max-width: 800px;
 	margin: 50px auto 70px;
 	padding: 0 30px;
-
 }
 
 h1 {
-line-height: 40px;
+	line-height: 40px;
 }
 
 h2 {
-line-height: 42px;
+	line-height: 42px;
+}
+
+section {
+	margin-bottom: 2.2em;
 }
 
 .button {
@@ -46,4 +48,3 @@ p {
 ul {
 	padding-left: 1.3em;
 }
-

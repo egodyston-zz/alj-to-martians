@@ -21,10 +21,12 @@ body {
 
 h1 {
 	line-height: 40px;
+	font-size: 40px;
 }
 
 h2 {
 	line-height: 42px;
+	font-size: 28px;
 }
 
 section {

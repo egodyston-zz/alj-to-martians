@@ -55,7 +55,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 18228,
+				"buffer_size": 19173,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -64,7 +64,7 @@
 			"file": "main.css",
 			"settings":
 			{
-				"buffer_size": 520,
+				"buffer_size": 556,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -258,7 +258,7 @@
 	],
 	"find":
 	{
-		"height": 76.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -298,7 +298,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -307,15 +307,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 18228,
+						"buffer_size": 19173,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11341,
-								11341
+								18011,
+								18011
 							]
 						],
 						"settings":
@@ -325,10 +325,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5931.0,
+						"translation.y": 5476.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -337,15 +337,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 520,
+						"buffer_size": 556,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								352,
-								352
+								334,
+								334
 							]
 						],
 						"settings":
@@ -354,10 +354,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 643.0,
+						"translation.y": 264.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -365,7 +365,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 37.0
+		"height": 35.0
 	},
 	"input":
 	{
@@ -402,7 +402,7 @@
 	"project": "alj.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":

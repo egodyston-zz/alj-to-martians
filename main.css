@@ -20,11 +20,13 @@ body {
 }
 
 h1 {
-	line-height: 40px;
+	line-height: 46px;
+	font-size: 36px;
 }
 
 h2 {
-	line-height: 42px;
+	line-height: 40px;
+	font-size: 28px;
 }
 
 section {
